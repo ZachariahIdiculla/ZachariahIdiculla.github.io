@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zachariah Idiculla</h1>
 <h3 align="center">BSc Computer Science student at UP</h3>
 
+ZachariahIdiculla.github.io is currently hosting a Memory Card Game I built using Angular
+
 - 🔭 I’m currently working on **AR/VR-GAN**
 
 - 🌱 I’m currently learning **A bunch of COS modules**
